@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Temporarily inactive on "CodingPractice" for a bit to work on my first major project.
+Temporarily inactive on "CodingPractice" to work on my first major project.
 
